@@ -15,3 +15,5 @@
 5. 묵숨이 다 없어졌다면 점수가 뜨게 된다.
 
 ## 개발 과정
+
+[참고](http://suanlab.com/assets/slectures/python/PyShooting.pdf)
