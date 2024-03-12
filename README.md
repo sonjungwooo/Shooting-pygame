@@ -1,6 +1,6 @@
 # Shooting-pygame
 
-> pygame을 사용해서 만든 슈팅 게임
+> Shooting Game Made With Pygame
 
 ## 개발 동기
 
